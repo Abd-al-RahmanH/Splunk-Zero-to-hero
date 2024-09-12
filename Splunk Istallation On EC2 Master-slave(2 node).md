@@ -1,5 +1,3 @@
-Here’s how you can structure the Splunk installation procedure in a GitHub-friendly format for your "Zero-to-Hero" course, with simple descriptions and code blocks:
-
 ---
 
 # Splunk Installation: Zero-to-Hero Guide
