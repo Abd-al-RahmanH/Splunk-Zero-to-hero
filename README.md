@@ -139,3 +139,10 @@ By following this course, you’ll become proficient in Splunk and will be well-
 ---
 
 Let me know if you'd like further adjustments or more content added!
+
+
+# Author
+Developed by Abdul Rahman H
+
+## Show Your Support
+If you like this project, please give a ⭐  
