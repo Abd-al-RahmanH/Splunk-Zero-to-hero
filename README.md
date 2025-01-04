@@ -1,4 +1,4 @@
- # Splunk Zero-to-Hero Course:
+ # Splunk Zero-to-Hero Course 
 
 Welcome to the **Splunk Zero-to-Hero Course**! Myself **Abdul Rahman** | This course is designed to take you from a complete beginner to an advanced user of Splunk. Whether you're looking to become a Splunk admin, developer, or power user, this course has something for everyone.
 
